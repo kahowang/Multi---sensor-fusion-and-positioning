@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/eskf_ins.dir/eskf_ins.cpp.o  -o eskf_ins GeographicLib/liblibGeographiccc.a -lyaml-cpp 

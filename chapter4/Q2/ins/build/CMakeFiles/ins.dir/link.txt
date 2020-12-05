@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ins.dir/ins.cpp.o  -o ins GeographicLib/liblibGeographiccc.a -lyaml-cpp 

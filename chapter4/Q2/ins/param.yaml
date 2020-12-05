@@ -1,0 +1,10 @@
+init_noise: [1e-4, 1e-4, 1e-6, 1e-6, 1e-6]
+gyro_noise: 1e-5
+acc_noise: 1e-4
+dp_noise: 1e-6    #gps 观测噪声
+# dv_noise: 1e-6
+FGsize: 10   #10
+time_interval: 100   #100
+end_time: 2000.0
+correct: true
+
